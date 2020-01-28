@@ -1,0 +1,16 @@
+h1{
+    color: black;
+    text-align: left;
+}
+#header{
+    background-color: blue;
+}
+#menu{
+    background-color: red;
+}
+#content{
+    background-color: yellow;
+}
+#footer{
+    background-color: gray;
+}
