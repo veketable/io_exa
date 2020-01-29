@@ -12,6 +12,14 @@
 #content{
     background-color: white;
     margin-left: 160px;  
+
+    background-color: paleturquoise;
+}
+#menu{
+    background-color: orange;
+}
+#content{
+    background-color: white;
 }
 #footer{
     background-color: gray;   
