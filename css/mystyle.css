@@ -3,13 +3,13 @@ h1{
     text-align: left;
 }
 #header{
-    background-color: blue;
+    background-color: paleturquoise;
 }
 #menu{
-    background-color: red;
+    background-color: orange;
 }
 #content{
-    background-color: yellow;
+    background-color: white;
 }
 #footer{
     background-color: gray;
