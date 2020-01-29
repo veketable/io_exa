@@ -1,13 +1,13 @@
 
 #header{
-    background-color: blue;
+    background: paleturquoise;
 }
 #menu{
-    background-color: red;
+    background-color: orange;
     float: left;
     width: 150px;
     height: 100%;
-    font-size: 20px;        
+    font-size: 20px;      
 }
 #content{
     background-color: white;
@@ -30,4 +30,4 @@ html,
 #menu ul li a:hover{
     color: white;
 }
-    
+
